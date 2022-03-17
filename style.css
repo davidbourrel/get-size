@@ -1,0 +1,8 @@
+.flex {
+    display: flex;
+    align-items: center;
+}
+.flex p {
+    font-size: 30px;
+    margin-left: 10px;
+}
